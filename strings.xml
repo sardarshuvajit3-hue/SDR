@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Key Tap Mapper</string>
+    <string name="service_description">Turns keys from a connected keyboard or gamepad into screen taps at positions you choose.</string>
+</resources>
